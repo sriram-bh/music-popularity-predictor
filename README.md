@@ -136,9 +136,9 @@ Range in this dataset: **0–287**, mean ~145, std ~41.
 
 | Model | No-Artist Test R² | With-Artist Test R² |
 |---|---|---|
-| Lasso | 0.663 | 0.663 |
-| Random Forest | 0.741 | 0.741 |
-| XGBoost | 0.738 | 0.738 |
+| Lasso | 0.352 | 0.663 |
+| Random Forest | 0.484 | 0.741 |
+| XGBoost | 0.510 | 0.738 |
 
 Three models are trained in each pipeline variant:
 
