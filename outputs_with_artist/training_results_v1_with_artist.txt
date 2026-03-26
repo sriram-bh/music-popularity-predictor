@@ -1,0 +1,7 @@
+PHASE 4 TRAINING RESULTS
+============================================================
+               Train R²  Test R²  Train RMSE  Test RMSE
+model                                                  
+Lasso            0.3484   0.3522     33.0528    32.9754
+Random Forest    0.7401   0.4843     20.8751    29.4227
+XGBoost          0.7522   0.5096     20.3852    28.6916
